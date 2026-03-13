@@ -42,21 +42,6 @@ The model is trained to classify the following injury categories:
 
 ---
 
-## Project Structure
-Accident_Severity_Prediction_System
-│
-├── app.py
-├── accident_severity_model.keras
-├── Train.ipynb
-├── requirements.txt
-├── templates/
-│ └── index.html
-├── sample_dataset/
-├── screenshots/
-└── README.md
-
----
-
 ## How the System Works
 1. The user uploads an accident injury image through the web interface.
 2. The uploaded image is preprocessed and resized to 128×128 pixels.
